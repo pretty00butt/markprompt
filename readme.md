@@ -42,4 +42,14 @@ shall be included. <Revised Aug. 13, 2015>.
 
 In supporting and propagating the party's policies or candidates' opinions or criticizing or opposing them, they shall not engage in acts that harm good morals or other social order. <Amended 2004. 3. 12., 2008. 2. 29.
 
+## Article 16 (Voting Rights)
+
+1. Citizens over the age of 40 who have been residing in Korea for at least five years as of the date of the election shall have the right to vote for the President. In this case, the period of being dispatched to a foreign country for official duties and the period of staying in a foreign country for a certain period of time with an address in Korea shall be considered as the period of domestic residence. <Amended 1997. 1. 13.
+
+2. Citizens over the age of 18 are eligible for election to the National Assembly. <Revised 2022. 1. 18.> ③A citizen over the age of 18 shall be eligible to vote for the National Assembly.
+
+3. As of the date of the election, a person who is registered as a resident in the jurisdiction of the local government for more than 60 consecutive days (in the case of a person who is dispatched to a foreign country for official duties and returns after 60 days before the date of the election, the period of 60 days starts from the date of creation of the name of the electorate and continues until the date of the election) is entitled to vote for the local council and the head of the local government. In this case, the 60-day period shall not be interrupted by the establishment, abolition, division, merger, or rezoning of the local government (including rezoning under any of the subparagraphs of Article 28). <Amended 1998. 4. 30., 2009. 2. 12., 2015. 8. 13., 2022. 1. 18.>.
+
+4. In the case of the preceding paragraph (3), if the place of office of a local government is located in the jurisdiction of another local government and the resident registration of the head of such local government is located in the jurisdiction of such other local government, the head of such local government shall be deemed to be registered as a resident in the jurisdiction of such other local government. <Amended 2009. 2. 12>.
+
 Translated with www.DeepL.com/Translator (free version)
