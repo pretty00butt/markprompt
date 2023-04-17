@@ -1,40 +1,45 @@
-# 제1장 총칙
+# Chapter 1 General Principles
 
-## 제1조(목적) 이 법은 「대한민국헌법」과 「지방자치법」에 의한 선거가 국민의 자유로운 의사와 민주적인 절차에 의하여 공정히 행하여지도록 하고, 선거와 관련한 부정을 방지함으로써 민주정치의 발전에 기여함을 목적으로 한다. <개정 2005. 8. 4.>
+## Article 1 (Purpose) This Act aims to ensure that elections under the Constitution of the Republic of Korea and the Local Self-Government Act are conducted fairly in accordance with the free will of the people and democratic procedures, and to contribute to the development of democratic politics by preventing irregularities related to elections. <Amended 2005. 8. 4
 
-## 제2조(적용범위) 이 법은 대통령선거ㆍ국회의원선거ㆍ지방의회의원 및 지방자치단체의 장의 선거에 적용한다.
+## Article 2 (Scope of Application) This Act shall apply to presidential elections, elections for members of the National Assembly, elections for members of local councils, and elections for heads of local governments
 
-## 제3조(선거인의 정의) 이 법에서 “선거인”이란 선거권이 있는 사람으로서 선거인명부 또는 재외선거인명부에 올라 있는 사람을 말한다.
+## Article 3 (Definition of Elector) In this Act, "elector" means a person who is entitled to vote and is listed in the electoral list or overseas electoral list
 
-## 제4조(인구의 기준) 이 법에서 선거사무관리의 기준이 되는 인구는 「주민등록법」에 따른 주민등록표에 따라 조사한 국민의 최근 인구통계에 의한다. 이 경우 지방자치단체의 의회의원 및 장의 선거에서는 제15조제2항제3호에 따라 선거권이 있는 외국인의 수를 포함한다. <개정 2015. 8. 13.>
+## Article 4 (Standard of population) In this Act, the population that is the standard for election administration is based on the latest demographic statistics of the people surveyed according to the resident registration list under the Resident Registration Act. In this case, the number of foreigners entitled to vote under Article 15 (2) (3) shall be included in the election of local government councilors and mayors
 
-## 제5조(선거사무협조) 관공서 기타 공공기관은 선거사무에 관하여 선거관리위원회의 협조요구를 받은 때에는 우선적으로 이에 따라야 한다. <개정 2000. 2. 16.>
+shall be included. <Revised Aug. 13, 2015>.
 
-## 제6조(선거권행사의 보장)
+## Article 5 (Cooperation in Election Affairs) When a government office or other public institution receives a request from the Election Commission for cooperation in election affairs, it shall first comply with the request. <Amended 2000. 2. 16.> ## 6
 
-1. 국가는 선거권자가 선거권을 행사할 수 있도록 필요한 조치를 취하여야 한다.
+## Article 6 (Guarantee of Exercise of Electoral Rights)
 
-2.  각급선거관리위원회(읍ㆍ면ㆍ동선거관리위원회는 제외한다)는 선거인의 투표참여를 촉진하기 위하여 교통이 불편한 지역에 거주하는 선거인 또는 노약자ㆍ장애인 등 거동이 불편한 선거인에 대한 교통편의 제공에 필요한 대책을 수립ㆍ시행하여야 하고, 투표를 마친 선거인에게 국공립 유료시설의 이용요금을 면제ㆍ할인하는 등의 필요한 대책을 수립ㆍ시행할 수 있다. 이 경우 공정한 실시방법 등을 정당ㆍ후보자와 미리 협의하여야 한다. <신설 2008. 2. 29., 2020. 12. 29.>
+1. The State shall take necessary measures to ensure that electors can exercise their electoral rights.
 
-3. 공무원ㆍ학생 또는 다른 사람에게 고용된 자가 선거인명부를 열람하거나 투표하기 위하여 필요한 시간은 보장되어야 하며, 이를 휴무 또는 휴업으로 보지 아니한다. <개정 2008. 2. 29.>
+2. In order to facilitate the participation of electors in voting, each level of election commission (excluding town, village, and district election commissions) shall establish and implement necessary measures to provide transportation facilities for electors living in areas with inconvenient transportation or for electors with limited mobility, such as the elderly and disabled, and may establish and implement necessary measures such as exempting or discounting the use of public toll facilities for electors who have completed voting. In this case, they shall consult with political parties and candidates in advance on how to carry out the fair implementation. <New 2008. 2. 29., 2020. 12. 29.> 3.
 
-4. 선거권자는 성실하게 선거에 참여하여 선거권을 행사하여야 한다. <개정 2008. 2. 29.>
+3. The time required for public servants, students, or persons employed by other persons to examine the electoral rolls or vote shall be guaranteed and shall not be considered as a closure or holiday. <Amended 2008. 2. 29.> 4.
 
-5.  선거의 중요성과 의미를 되새기고 주권의식을 높이기 위하여 매년 5월 10일을 유권자의 날로, 유권자의 날부터 1주간을 유권자 주간으로 하고, 각급선거관리위원회(읍ㆍ면ㆍ동선거관리위원회는 제외한다)는 공명선거 추진활동을 하는 기관 또는 단체 등과 함께 유권자의 날 의식과 그에 부수되는 행사를 개최할 수 있다. <신설 2012. 1. 17.>
+4. An elector shall participate in the election in good faith and exercise his or her right to vote. <Revision 2008. 2. 29.> 5.
 
-## 제6조의2(다른 자에게 고용된 사람의 투표시간 보장)
+5. In order to remind people of the importance and meaning of elections and to raise their sense of sovereignty, May 10th of each year shall be designated as Voters' Day and one week from Voters' Day shall be designated as Voters' Week, and each level of the Election Commission (excluding town, county, and city election commissions) may hold Voters' Day ceremonies and related events together with institutions or organizations that promote fair elections. <New 2012. 1. 17.>
 
-1. 다른 자에게 고용된 사람이 사전투표기간 및 선거일에 모두 근무를 하는 경우에는 투표하기 위하여 필요한 시간을 고용주에게 청구할 수 있다.
+## Article 6.2 (Guarantee of voting time for persons employed by others)
 
-2. 고용주는 제1항에 따른 청구가 있으면 고용된 사람이 투표하기 위하여 필요한 시간을 보장하여 주어야 한다.
+1. If a person employed by another person works both during the early voting period and on election day, he/she may claim the time required to vote from his/her employer.
 
-3. 고용주는 고용된 사람이 투표하기 위하여 필요한 시간을 청구할 수 있다는 사실을 선거일 전 7일부터 선거일 전 3일까지 인터넷 홈페이지, 사보, 사내게시판 등을 통하여 알려야 한다.
+2. the employer shall guarantee the time required for the employed person to vote upon a claim under paragraph 1.
 
-## 제6조의3(감염병환자 등의 선거권 보장)
+3. The employer shall notify the employed person of the fact that the employed person may request the necessary time to vote from the 7th day before the election day to the 3rd day before the election day through the Internet homepage, bulletin, in-house bulletin board, etc.
 
-1.  「감염병의 예방 및 관리에 관한 법률」 제41조제1항 또는 제2항에 따라 입원치료, 자가(自家)치료 또는 시설치료 중이거나 같은 법 제42조제2항제1호에 따라 자가 또는 시설에 격리 중인 사람(이하 “격리자등”이라 한다)은 선거권 행사를 위하여 활동할 수 있다.
+## Article 6.3 (Guarantee of the right to vote for infectious disease patients, etc.)
 
-2. 국가와 지방자치단체는 격리자등의 선거권 행사가 원활하게 이루어질 수 있도록 교통편의 제공 및 그 밖에 필요한 방안을 마련하여야 한다.
+1. Persons (hereinafter referred to as "quarantined persons") who are undergoing inpatient treatment, home treatment or facility treatment pursuant to Article 41 (1) or (2) of the Act on the Prevention and Control of Infectious Diseases, or who are quarantined at home or in a facility pursuant to Article 42 (2) (1) of the same Act, are entitled to exercise the right to vote.
 
-## 제7조(정당ㆍ후보자 등의 공정경쟁의무) ① 선거에 참여하는 정당ㆍ후보자(후보자가 되고자 하는 자를 포함한다. 이하 이 조에서 같다) 및 후보자를 위하여 선거운동을 하는 자는 선거운동을 함에 있어 이 법을 준수하고 공정하게 경쟁하여야 하며, 정당의 정강ㆍ정책이나 후보자의 정견을 지지ㆍ선전하거나 이를 비판ㆍ반대함에 있어 선량한 풍속 기타 사회질서를 해하는 행위를 하여서는 아니된다. <개정 2004. 3. 12., 2008. 2. 29.>
+2. The state and local governments shall provide transportation and other necessary measures to facilitate the exercise of the right to vote by quarantined persons.
 
+## Article 7 (Fair Competition Obligations of Political Parties, Candidates, etc.) ① Political parties, candidates (including persons who intend to become candidates, hereinafter referred to as "candidates") participating in elections, and persons campaigning for candidates shall comply with this Act and compete fairly in their campaigns, and shall not support the political party's platform, policies, or candidates' opinions
+
+In supporting and propagating the party's policies or candidates' opinions or criticizing or opposing them, they shall not engage in acts that harm good morals or other social order. <Amended 2004. 3. 12., 2008. 2. 29.
+
+Translated with www.DeepL.com/Translator (free version)
