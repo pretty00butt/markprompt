@@ -38,9 +38,11 @@ shall be included. <Revised Aug. 13, 2015>.
 
 2. The state and local governments shall provide transportation and other necessary measures to facilitate the exercise of the right to vote by quarantined persons.
 
-## Article 7 (Fair Competition Obligations of Political Parties, Candidates, etc.) ① Political parties, candidates (including persons who intend to become candidates, hereinafter referred to as "candidates") participating in elections, and persons campaigning for candidates shall comply with this Act and compete fairly in their campaigns, and shall not support the political party's platform, policies, or candidates' opinions
+## Article 7 (Fair Competition Obligations of Political Parties, Candidates, etc.)
 
-In supporting and propagating the party's policies or candidates' opinions or criticizing or opposing them, they shall not engage in acts that harm good morals or other social order. <Amended 2004. 3. 12., 2008. 2. 29.
+1. Political parties, candidates (including persons who intend to become candidates, hereinafter referred to as "candidates") participating in elections, and persons campaigning for candidates shall comply with this Act and compete fairly in their campaigns, and shall not support the political party's platform, policies, or candidates' opinions
+
+In supporting and propagating the party's policies or candidates' opinions or criticizing or opposing them, they shall not engage in acts that harm good morals or other social order. <Amended 2004. 3. 12., 2008. 2. 29.>
 
 ## Article 16 (Voting Rights)
 
